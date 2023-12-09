@@ -3,7 +3,7 @@
 
 ## ✅ Sobre o Projeto
 
-[todolist-rayane-souza.vercel.app](https:/todolist-rayane-souza.vercel.app/)
+[todolist-rayane-souza.vercel.app](https://todolist-rayane-souza.vercel.app/)
 
 Bem-vindo ao ToDoList, uma aplicação simples para ajudar você a organizar suas tarefas diárias.
 Na aplicação é possível remover aquelas já feitas, e também adicionar novas atividades. 
